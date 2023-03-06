@@ -116,7 +116,7 @@ class StudentInfo {
     }
  }
  
- public class mo {
+ public class StudentGradeCalculation {
  
     public static void main(String[] args) {
        
